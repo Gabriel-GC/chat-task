@@ -1,7 +1,7 @@
-<img width="1672" height="941" alt="mockup-myde-task" src="https://github.com/user-attachments/assets/af0030af-5708-4449-afe8-813fbc494447" />imagem ilustrativa
+<img width="1672" height="941" alt="mockup-chat-task" src="https://github.com/user-attachments/assets/af0030af-5708-4449-afe8-813fbc494447" />imagem ilustrativa
 
-# Inbox de Atendimento Chat com IA — Myde Frontend
-### Link do projeto em produção: https://myde-task.netlify.app/
+# Inbox de Atendimento Chat com IA 
+### Link do projeto em produção: https://chat-task.netlify.app/
 Esta aplicação foi desenvolvida em Next.js (App Router) e TypeScript, consumindo uma API REST dedicada.
 
 ---
@@ -35,8 +35,6 @@ npm run build
 ---
 
 ## Decisões de Arquitetura e Tecnologia
-
-Para atender os critérios de avaliação técnica do desafio da **Myde**, a seguinte arquitetura foi implementada:
 
 ### 1. Separação RSC vs Client Component (Next.js App Router)
 Para obter uma melhor performance e indexação (SEO), a aplicação é dividida em:
