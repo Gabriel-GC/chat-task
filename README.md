@@ -1,7 +1,7 @@
 <img width="1672" height="941" alt="mockup-chat-task" src="https://github.com/user-attachments/assets/af0030af-5708-4449-afe8-813fbc494447" />imagem ilustrativa
 
 # Inbox de Atendimento Chat com IA 
-### Link do projeto em produção: https://chat-task.netlify.app/
+### Link do projeto em produção: https://chats-task.netlify.app/
 Esta aplicação foi desenvolvida em Next.js (App Router) e TypeScript, consumindo uma API REST dedicada.
 
 ---
